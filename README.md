@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF758F&center=true&vCenter=true&width=435&lines=Welcome+to+my+Profile!" alt="Typing SVG" />
   </div>
 
-  <img src="https://github.com/user-attachments/assets/eed7b1c8-b0ed-48fe-8466-4f4ab2def7bf" width="115px" style="vertical-align: middle; margin-left: 10px;" />
+   <img src="https://github.com/user-attachments/assets/db75598a-2582-4569-aab0-2bd0639ab1f6" width="280px" alt="dance-cat" />
 </div>
 <br>
 </div>
